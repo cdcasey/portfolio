@@ -378,3 +378,7 @@ a:focus, a:hover, a:active {
   background-color: #171823;
   border-color: #171823;
 }
+
+.about-link {
+  color: #d1d4d6;
+}
